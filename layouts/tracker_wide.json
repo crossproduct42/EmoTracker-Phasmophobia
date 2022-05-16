@@ -1,0 +1,44 @@
+﻿{
+  "tracker_default": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "12,1",
+        "h_alignment": "center",
+        "item_width": "48",
+        "item_height": "48",
+        "rows": [
+          [ "emf5", "box", "fingerprints", "orb", "writing", "freezing", "dots" ]
+        ]
+      },
+      {
+        "type": "map",
+        "v_alignment": "center",
+        "maps": [
+          "map_spirit", "map_wraith", "map_phantom", "map_poltergeist",
+          "map_banshee", "map_jinn", "map_mare"
+        ]
+      },
+      {
+        "type": "map",
+        "v_alignment": "center",
+        "maps": [
+          "map_revenant", "map_shade", "map_demon", "map_yurei",
+          "map_oni", "map_yokai", "map_hantu"
+        ]
+      },
+      {
+        "type": "map",
+        "v_alignment": "center",
+        "maps": [
+          "map_goryo", "map_myling", "map_onryo", "map_The_Twins",
+          "map_Raiju", "map_Obake", "map_Mimic"
+        ]
+      }
+      
+    ]
+  }
+}

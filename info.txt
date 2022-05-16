@@ -1,0 +1,39 @@
+EmoTracker pack by crossproduct
+twitch.tv/crossproduct
+
+For use with Phasmophobia v 0.5.2.0
+Published by Kinetic Games
+
+Graphics are owned by Kinetic Games and Nintendo
+
+Happy hunting :)
+
+---
+
+Future ideas:
+
+- When two pieces of evidence are found, highlight the possibilities of the remaining evidence
+- Make item icons on the "map" images clickable
+- Dim "map" images for ghosts after eliminating them from the pool
+
+Who knows if I'll ever get around to that stuff ;)
+
+---
+
+Tracker Pack Changelog:
+
+v 1.1.2
+- Added Mimic
+
+v 1.1.1
+- Fixed the Tall layout to include Onryo, The Twins, Raiju, and Obake
+- Updated the Tall layout so that the Evidence matches the size of other layouts
+
+
+v 1.1.0
+- Added four new ghost types for Phasmophobia v 0.4
+- Added two new layouts: 3x7 (In-game) and 7x3
+- Updated visuals to match the current game version
+
+v 1.0.0
+- Initial release

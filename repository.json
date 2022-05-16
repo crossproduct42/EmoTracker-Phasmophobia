@@ -1,0 +1,23 @@
+{
+  "name": "crossproduct packs",
+  "packages": [
+    {
+      "name": "Crystalis Randomizer",
+      "author": "crossproduct",
+      "version": "1.2.0",
+      "uid": "crystalis_crossproduct",
+  	  "flags": [ "chathud","map" ],
+	  "game_name": "Crystalis Randomizer",
+      "link": "https://crossproduct42.github.io/storage/crystalis_crossproduct.zip"
+    },
+    {
+      "name": "Phasmophobia Evidence Tracker",
+      "author": "crossproduct",
+      "version": "1.1.2",
+      "uid": "phasmophobia_crossproduct",
+  	  "flags": [ "chathud" ],
+	  "game_name": "Phasmophobia",
+      "link": "https://crossproduct42.github.io/storage/phasmophobia_crossproduct.zip"
+    }
+  ]
+}

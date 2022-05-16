@@ -1,0 +1,380 @@
+﻿[
+  {
+		"name": "Spirit",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_spirit",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,box,writing", "{$possSpirit}"],
+				"item_count": 1
+			}
+		]
+	},
+    
+  {
+		"name": "Wraith",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_wraith",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,box,dots", "{$possWraith}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Phantom",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_phantom",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "box,fingerprints,dots", "{$possPhantom}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Poltergeist",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_poltergeist",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "box,fingerprints,writing", "{$possPoltergeist}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Banshee",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_banshee",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "fingerprints,orb,dots", "{$possBanshee}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Jinn",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_jinn",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,fingerprints,freezing", "{$possJinn}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Mare",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_mare",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "box,orb,writing", "{$possMare}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Revenant",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_revenant",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "orb,writing,freezing", "{$possRevenant}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Shade",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_shade",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,writing,freezing", "{$possShade}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Demon",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_demon",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "fingerprints,writing,freezing", "{$possDemon}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Yurei",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_yurei",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "orb,freezing,dots", "{$possYurei}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Oni",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_oni",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,freezing,dots", "{$possOni}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Yokai",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_yokai",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "box,orb,dots", "{$possYokai}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Hantu",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_Hantu",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "fingerprints,orb,freezing", "{$possHantu}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Goryo",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_Goryo",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,fingerprints,dots", "{$possGoryo}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Myling",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_Myling",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,fingerprints,writing", "{$possMyling}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Onryo",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_Onryo",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "box,orb,freezing", "{$possOnryo}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "The Twins",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_The_Twins",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,box,freezing", "{$possTheTwins}"],
+				"item_count": 1
+			}
+		]
+	},
+
+  {
+		"name": "Raiju",
+		"access_rules": [ "" ],
+		"map_locations":[
+			{
+				"map": "map_Raiju",
+				"x": 316,
+				"y": 42
+			}
+		],
+		"sections": [
+			{
+				"access_rules": [ "emf5,orb,dots", "{$possRaiju}"],
+				"item_count": 1
+			}
+		]
+	},
+
+	{
+		  "name": "Obake",
+		  "access_rules": [ "" ],
+		  "map_locations":[
+			  {
+				  "map": "map_Obake",
+				  "x": 316,
+				  "y": 42
+			  }
+		  ],
+		  "sections": [
+			  {
+				  "access_rules": [ "emf5,fingerprints,orb", "{$possObake}"],
+				  "item_count": 1
+			  }
+		  ]
+	},
+
+	{
+			"name": "Mimic",
+			"access_rules": [ "" ],
+			"map_locations":[
+				{
+					"map": "map_Mimic",
+					"x": 316,
+					"y": 42
+				}
+			],
+			"sections": [
+				{
+					"access_rules": [ "box,fingerprints,orb", "box,fingerprints,freezing", "{$possMimic}"],
+					"item_count": 1
+				}
+			]
+	}
+    
+]

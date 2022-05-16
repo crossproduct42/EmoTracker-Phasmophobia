@@ -1,0 +1,129 @@
+﻿[
+  
+  {
+    "name": "map_Spirit",
+    "img": "images/ghosts/spirit.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Wraith",
+    "img": "images/ghosts/wraith.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Phantom",
+    "img": "images/ghosts/phantom.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Poltergeist",
+    "img": "images/ghosts/poltergeist.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Banshee",
+    "img": "images/ghosts/banshee.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Jinn",
+    "img": "images/ghosts/jinn.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Mare",
+    "img": "images/ghosts/mare.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Revenant",
+    "img": "images/ghosts/revenant.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Shade",
+    "img": "images/ghosts/shade.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Demon",
+    "img": "images/ghosts/demon.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Yurei",
+    "img": "images/ghosts/yurei.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Oni",
+    "img": "images/ghosts/oni.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Yokai",
+    "img": "images/ghosts/yokai.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Hantu",
+    "img": "images/ghosts/hantu.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Goryo",
+    "img": "images/ghosts/goryo.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Myling",
+    "img": "images/ghosts/myling.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Onryo",
+    "img": "images/ghosts/onryo.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_The_Twins",
+    "img": "images/ghosts/the_twins.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Raiju",
+    "img": "images/ghosts/raiju.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Obake",
+    "img": "images/ghosts/obake.png",
+    "location_size": 64
+  },
+  
+  {
+    "name": "map_Mimic",
+    "img": "images/ghosts/mimic.png",
+    "location_size": 64
+  }
+  
+]

@@ -1,0 +1,22 @@
+﻿{
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "background": "#4b1313",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "1,1",
+        "h_alignment": "center",
+        "item_width": "48",
+        "item_height": "48",
+        "rows": [
+          [ "emf5", "box" ],
+          [ "fingerprints", "orb", "writing" ],
+          [ "freezing", "dots" ]
+        ]
+      }
+    ]
+  }
+}

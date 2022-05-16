@@ -1,0 +1,67 @@
+﻿[
+  // emf, box, fingerprints, orb, writing, freezing
+
+  // EMF Level 5
+  {
+    "name": "emf5",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/emf.png",
+    "codes": "emf5,emf"
+  },
+
+  // Spirit Box
+  {
+    "name": "box",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/box.png",
+    "codes": "box,spiritbox"
+  },
+
+  // Fingerprints
+  {
+    "name": "fingerprints",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/fingerprints.png",
+    "codes": "fingerprints,prints"
+  },
+
+  // Ghost Orb
+  {
+    "name": "orb",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/orb.png",
+    "codes": "orb,orbs,ghostorb,ghostorbs"
+  },
+
+  // Ghost Writing
+  {
+    "name": "writing",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/book.png",
+    "codes": "writing"
+  },
+
+  // Freezing Temperatures
+  {
+    "name": "freezing",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/freezing.png",
+    "codes": "freezing,freezingtemps,freezingtemperatures"
+  },
+  
+  // D.O.T.S Projector
+  {
+    "name": "dots",
+    "type": "toggle",
+    "loop": "false",
+    "img": "images/evidence/dots.png",
+    "codes": "dots"
+  }
+  
+]
